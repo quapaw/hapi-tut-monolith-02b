@@ -1,0 +1,14 @@
+{
+  "server": {
+    "app": {
+      "slogan": "We push the web forward"
+    }
+  },
+  "connections": [
+    {
+      "port":   3000,
+      "labels": ["api"],
+      "host":   "localhost"
+    }
+  ]
+}
